@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="56678eee-6752-4e14-8831-25deac071ca9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/evenement/evenement" />
+      <path value="$PROJECT_DIR$/vendor/cboden/ratchet" />
+      <path value="$PROJECT_DIR$/vendor/react/stream" />
+      <path value="$PROJECT_DIR$/vendor/react/socket" />
+      <path value="$PROJECT_DIR$/vendor/react/promise" />
+      <path value="$PROJECT_DIR$/vendor/react/event-loop" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/ratchet/rfc6455" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/react/cache" />
+      <path value="$PROJECT_DIR$/vendor/react/promise-timer" />
+      <path value="$PROJECT_DIR$/vendor/react/dns" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1rWuxmhDuia8HZjT9oJDNNMwH4O" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\OpenServer\domains\chat\src\MyApp\database" />
+      <recent name="F:\OpenServer\domains\chat\src\MyApp" />
+      <recent name="F:\OpenServer\domains\chat\tools" />
+      <recent name="F:\OpenServer\domains\chat\html" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\OpenServer\domains\chat" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56678eee-6752-4e14-8831-25deac071ca9" name="Default Changelist" comment="" />
+      <created>1619104415510</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619104415510</updated>
+      <workItem from="1619104416581" duration="7272000" />
+      <workItem from="1619185811480" duration="13093000" />
+      <workItem from="1619338328500" duration="9215000" />
+      <workItem from="1619356846772" duration="2475000" />
+      <workItem from="1619361107017" duration="18504000" />
+      <workItem from="1619803315274" duration="3756000" />
+      <workItem from="1619887287892" duration="9980000" />
+      <workItem from="1619944251912" duration="5131000" />
+      <workItem from="1619964183575" duration="1201000" />
+      <workItem from="1620141342934" duration="353000" />
+      <workItem from="1620141849866" duration="3966000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1619377277052">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1619377277052" />
+    <state x="624" y="215" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1619371545825">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="624" y="215" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1619371545825" />
+    <state x="687" y="215" key="FileChooserDialogImpl" timestamp="1619338405925">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="687" y="215" key="FileChooserDialogImpl/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1619338405925" />
+    <state x="707" y="182" key="NewPhpClassDialog" timestamp="1619804072360">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="707" y="182" key="NewPhpClassDialog/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1619804072360" />
+    <state x="748" y="424" key="NewPhpFileDialog" timestamp="1620141526668">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="748" y="424" key="NewPhpFileDialog/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1620141526668" />
+  </component>
+</project>

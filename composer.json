@@ -1,0 +1,13 @@
+{
+  "autoload": {
+    "files": [
+      "tools/helper.php"
+    ],
+    "psr-0": {
+      "app": "src"
+    }
+  },
+  "require": {
+    "cboden/ratchet": "0.4.*"
+  }
+}
